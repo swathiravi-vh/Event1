@@ -1,0 +1,30 @@
+.out{
+    border:2px solid black;
+    height:900px;
+    width:1400px;
+    margin: 30px;
+}
+.img{
+    display:inline-flex;
+    border:2px solid black; 
+   
+}
+.h4{
+    font-size: large;
+    margin-top: 50px;
+}
+.h1{
+    margin:30px;
+    
+}
+.box{
+    height:420px;
+    width:900px;
+    margin:auto;
+    padding: 10px;
+    margin-top: 50px;
+    border:2px solid black;
+    align-self: center;
+}
+
+
